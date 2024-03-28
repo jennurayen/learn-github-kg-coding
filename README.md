@@ -4,5 +4,3 @@ git diff                 to check defferences
 git add .                stage all file
 git add fileName 
 git reset HEAD fileName
-
-change file to github.com online
